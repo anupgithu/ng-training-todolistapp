@@ -8,7 +8,6 @@ function App() {
     <div>
      {/* Background video */}
      <BackgroundVideo />
-
     <div className="container mt-4">
       <TaskManager />
     </div>
